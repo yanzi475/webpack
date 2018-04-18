@@ -1,0 +1,11 @@
+{
+  "name": "importTest",
+  "version": "0.0.1",
+  "devDependencies": {
+    "webpack": "^1.14.0"
+  },
+  "dependencies": {
+    "babel-core": "^6.21.0",
+    "babel-loader": "^6.2.10"
+  }
+}

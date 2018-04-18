@@ -5,7 +5,7 @@
 module.exports = {
     devtool: 'eval-source-map', //  默认是source maps
 
-    entry:  __dirname + "/app/main.js",
+    entry:  __dirname + "/module/importTest/app.js",
     output: {
         path: __dirname + "/public",
         filename: "bundle.js"
